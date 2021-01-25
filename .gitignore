@@ -1,0 +1,13 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# main
+/main/node_modules/
+/main/dist/
+
+# micro-app-vue
+/micro-app-vue/node_modules/
+/micro-app-vue/dist/
+
+# micro-app-react
+/micro-app-react/node_modules/
+/micro-app-react/dist/
